@@ -30,7 +30,7 @@ Now, you need to open the `.bashrc` file to restore the `PS1` value. Depending o
    sudo nano ~/.bashrc
   2. **Uncomment the `PS1` line** by adding a `#` at the beginning of the line. This will disable the current `PS1` value:
    ```bash
-# PS1='...'
+   # PS1='...'
 ```
 3. Above the PS1 line, add the following line to customize your terminal prompt:
    ```bash
