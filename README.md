@@ -16,7 +16,7 @@ The `PS1` variable defines the format of your **terminal prompt**, which is the 
 
 The file that configures the terminal prompt is `.bashrc`, located in your home directory (`~`). To restore `PS1`, we need to edit this file.
 
-## 2. Editing `.bashrc` with **`nano`** or **`mousepad`**
+### 2. Editing `.bashrc` with **`nano`** or **`mousepad`**
 
 Now, you need to open the `.bashrc` file to restore the `PS1` value. Depending on your preference, you can use either **`nano`** or **`mousepad`**. Both are text editors available in most Linux distributions. Below are the instructions for each editor:
 
